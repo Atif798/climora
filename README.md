@@ -422,7 +422,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ## Project Links & Submission
 **GitHub Repository:** [Climora Github Repository](https://github.com/Atif798/climora)
-**Google Drive Submission Folder:** [Climora Submission Folder](https://drive.google.com/drive/folders/1yJ6yiVlJlV1FGKkWEOajXcaGzeX-0Ms?usp=drive_link)
+**Google Drive Submission Folder:** [Climora Submission Folder](https://drive.google.com/drive/folders/1yJ6yiVlJlV1FGKkWEOajXxcaGzeX-0Ms?usp=sharing)
 **Demo Video:** [Climora Demo Video](https://drive.google.com/file/d/1hoxSWA9re1L2tTcsMx_GdQRoBrJqv8ce/view?usp=sharing)
 ---
 
